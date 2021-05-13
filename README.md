@@ -1,5 +1,5 @@
-### Hi there 👋, I'm Ravindu Abeygunawardena
-#### I am an undergraduate
+# Hi there 👋, I'm Ravindu Abeygunawardena
+### I am an undergraduate
 Undergraduate student at the University of Moratuwa majoring in Electronic and Telecommunication Engineering. Always curious about learning new technological trends. Passionate in Electronic Design, Embedded Systems and Machine Learning with hands-on experience in terms of various projects.
 
 - 🌱 I’m currently learning C++ for embedded systems 
