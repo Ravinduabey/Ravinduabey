@@ -8,7 +8,7 @@ Undergraduate student at the University of Moratuwa majoring in Electronic and T
 
 [![Ravindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ravinduabey&?orgs=Ravindu-CPPp&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravinduabey&?orgs=Ravindu-CPP&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravinduabey&?orgs=Ravindu-CPP%langs_count=10&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
 <a href="https://github.com/Ravinduabey/github-readme-stats">
