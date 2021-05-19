@@ -6,9 +6,9 @@ Undergraduate student at the University of Moratuwa majoring in Electronic and T
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Ravinduabey)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ravindu-abeygunawardena//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Ravinduabey)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/https://www.reddit.com/user/_garen_)  
 
-[![Ravindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ravinduabey&?orgs=Ravindu-Cpp&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Ravindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ravinduabey&?orgs=Ravindu-CPPp&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravinduabey&?orgs=Ravindu-Cpp&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravinduabey&?orgs=Ravindu-CPP&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
 <a href="https://github.com/Ravinduabey/github-readme-stats">
