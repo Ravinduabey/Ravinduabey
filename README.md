@@ -15,6 +15,8 @@
 
 <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravinduabey&show_icons=true&locale=en&theme=github_dark" alt="ravinduabey" /></p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravinduabey&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravinduabey&theme=dark" alt="ravinduabey" /></p>
 
 
