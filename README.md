@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Ravindu Abeygunawardena</h1>
-<h2 align="left">I am an undergraduate </h2>
+<h2 align="left"> Engineer - Hardware accelerations </h2>
 <div align="left">
-<p align="text-align:justify">Final year undergraduate student at the University of Moratuwa majoring in Electronic and Telecommunication Engineering. Always curious about learning new technological trends. Passionate in Electronic Design, Embedded Systems and Machine Learning with hands-on experience in terms of various projects.</p>
+<p align="text-align:justify">Passionate on high performance computing</p>
 </div>
 
 <h3 align="left">Find me on:</h3>
