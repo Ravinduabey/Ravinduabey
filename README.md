@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Ravindu Abeygunawardena</h1>
-<h2 align="left"> Engineer - Hardware accelerations </h2>
+<h2 align="left"> Senior Engineer - Hardware accelerations </h2>
 <div align="left">
 <p align="text-align:justify">Passionate on high performance computing</p>
 </div>
